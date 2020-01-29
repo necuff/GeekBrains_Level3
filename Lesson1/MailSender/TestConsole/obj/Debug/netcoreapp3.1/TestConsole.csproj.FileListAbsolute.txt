@@ -1,0 +1,11 @@
+C:\Users\Mike\source\repos\MailSender\TestConsole\bin\Debug\netcoreapp3.1\TestConsole.exe
+C:\Users\Mike\source\repos\MailSender\TestConsole\bin\Debug\netcoreapp3.1\TestConsole.deps.json
+C:\Users\Mike\source\repos\MailSender\TestConsole\bin\Debug\netcoreapp3.1\TestConsole.runtimeconfig.json
+C:\Users\Mike\source\repos\MailSender\TestConsole\bin\Debug\netcoreapp3.1\TestConsole.runtimeconfig.dev.json
+C:\Users\Mike\source\repos\MailSender\TestConsole\bin\Debug\netcoreapp3.1\TestConsole.dll
+C:\Users\Mike\source\repos\MailSender\TestConsole\bin\Debug\netcoreapp3.1\TestConsole.pdb
+C:\Users\Mike\source\repos\MailSender\TestConsole\obj\Debug\netcoreapp3.1\TestConsole.csprojAssemblyReference.cache
+C:\Users\Mike\source\repos\MailSender\TestConsole\obj\Debug\netcoreapp3.1\TestConsole.AssemblyInfoInputs.cache
+C:\Users\Mike\source\repos\MailSender\TestConsole\obj\Debug\netcoreapp3.1\TestConsole.AssemblyInfo.cs
+C:\Users\Mike\source\repos\MailSender\TestConsole\obj\Debug\netcoreapp3.1\TestConsole.dll
+C:\Users\Mike\source\repos\MailSender\TestConsole\obj\Debug\netcoreapp3.1\TestConsole.pdb
